@@ -1,0 +1,23 @@
+{
+  "name": "graphql-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albasyir/graphQL-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albasyir/graphQL-example/issues"
+  },
+  "homepage": "https://github.com/albasyir/graphQL-example#readme",
+  "dependencies": {
+    "apollo-server": "^2.21.2",
+    "graphql": "^15.5.0"
+  }
+}
